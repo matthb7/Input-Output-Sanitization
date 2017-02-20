@@ -1,6 +1,6 @@
 # Project 2 - Input/Output Sanitization
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -77,9 +77,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Most of the challenges for me were completing the bonus challenges, such as the nested classes or displaying the state name instead of state id. I was unable to complete the unique username validation due to time constraints. Sanitizing the input and output was fairly straight forward as well as preventing SQL Injection and Cross Site Scripting.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Matthew Blumen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
